@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | GOBALNEWS |  |
-https://www.youtube.com/watch?v=TVNpxstTF0w
+https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live
